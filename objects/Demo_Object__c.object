@@ -167,7 +167,7 @@
         <fullName>Last_Name__c</fullName>
         <externalId>false</externalId>
         <label>Last Name</label>
-        <length>20</length>
+        <length>30</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
@@ -177,7 +177,7 @@
         <fullName>First_Name__c</fullName>
         <externalId>false</externalId>
         <label>First Name</label>
-        <length>20</length>
+        <length>30</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
